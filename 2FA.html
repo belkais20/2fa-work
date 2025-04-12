@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2FA</title>
+</head>
+<body>
+  <h2>Welcome to 2FA</h2>
+  <p>Please enter the 2FA code sent to your email to proceed.</p>
+
+  <form action="http://localhost:9000/2FA" method="POST">
+    Code: <input type="text" name="code" required><br><br>
+    <button type="submit">Verify</button>
+  </form>
+</body>
+</html>

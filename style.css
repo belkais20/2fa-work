@@ -1,0 +1,32 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f3f3f3;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .box {
+    background: white;
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: #2e8b57;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  

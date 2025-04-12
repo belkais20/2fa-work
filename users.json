@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "mohamed-msila",
+    "email": "mohamed.msila@gmail.com",
+    "password": "mohamed2025"
+  },
+  {
+    "id": 2,
+    "username": "amina-msila",
+    "email": "amina.msila@gmail.com",
+    "password": "amina2025"
+  },
+  {
+    "id": 3,
+    "username": "8",
+    "email": "miroromi2024@gmail.com",
+    "password": "8",
+    "role": null,
+    "roleId": null
+  },
+  {
+    "id": 4,
+    "username": "12",
+    "email": "miroromi2024@gmail.com",
+    "password": "12",
+    "role": null,
+    "roleId": null
+  }
+]
